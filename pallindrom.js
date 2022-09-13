@@ -6,7 +6,7 @@ let num=12321;
     num=Math.floor(num/10);
     rev=rev*10+rem;
     }
-    if(num==rev){
+    if(tem==rev){
         console.log("Yes");
     }else{
         console.log("No");
