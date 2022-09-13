@@ -5,7 +5,7 @@
 
 	for(let i=1;i<=num;i++){
 		if(num%i==0){
-		fact=1;
+		fact++;
 		}
 	}
 	if(fact==2){
